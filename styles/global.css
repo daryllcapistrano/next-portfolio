@@ -6,6 +6,7 @@ body {
 		Helvetica Neue, sans-serif;
 	background-color: #172a45;
 	color: #f4f4f4;
+	scroll-behavior: smooth;
 }
 
 * {

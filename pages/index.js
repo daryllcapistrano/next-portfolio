@@ -21,24 +21,31 @@ export default function Home() {
 				</p>
 			</section>
 			<section id="projects" className="grid">
-				<a href="https://github.com/daryllcapistrano/Game-of-SKATE" className="card">
+				<a href="https://github.com/daryllcapistrano/Game-of-SKATE" className="card" target="_blank" rel="noreferrer">
 					<h3>Game of Skate &rarr;</h3>
 					<p>A score tracker based on the old basketball game H.O.R.S.E.</p>
 				</a>
 
-				<a href="https://github.com/daryllcapistrano/keaton-portfolio-gatsby-v2" className="card">
+				<a
+					href="https://github.com/daryllcapistrano/keaton-portfolio-gatsby-v2"
+					className="card"
+					target="_blank"
+					rel="noreferrer"
+				>
 					<h3>Client Portfolio Page &rarr;</h3>
 					<p>Client Portfolio Page</p>
 				</a>
 
-				<a href="https://github.com/vercel/next.js/tree/master/examples" className="card">
-					<h3>Examples &rarr;</h3>
-					<p>Discover and deploy boilerplate example Next.js projects.</p>
+				<a href="https://github.com/daryllcapistrano/skate-charts" className="card" target="_blank" rel="noreferrer">
+					<h3>Skate Charts &rarr;</h3>
+					<p>a collection of charts displaying skateboarding data</p>
 				</a>
 
 				<a
 					href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
 					className="card"
+					target="_blank"
+					rel="noreferrer"
 				>
 					<h3>Deploy &rarr;</h3>
 					<p>Instantly deploy your Next.js site to a public URL with Vercel.</p>

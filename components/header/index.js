@@ -9,11 +9,9 @@ function Header() {
 				// alt={name}
 			/>
 			<nav>
-				<ul>
-					<li>about-me</li>
-					<li>projects</li>
-					<li>contact</li>
-				</ul>
+				<a href="#about">about</a>
+				<a href="#projects">projects</a>
+				<a href="#contact">acontact</a>
 			</nav>
 		</header>
 	);
